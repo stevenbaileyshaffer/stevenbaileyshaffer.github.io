@@ -1,3 +1,4 @@
+
 # Placidity
 
 A free, Image Heavy Ghost theme.
